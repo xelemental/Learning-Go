@@ -5,4 +5,6 @@ WARNING: During this excercise you will be learning along with me, I am not your
 
 Try to complete each task without looking at the solution!
 
+For issues & further contributions you can reach me out at [discord.](https://discord.gg/YRCaJtKUPX)
+
 README & idea proudly stolen from [h0mbre.](https://twitter.com/h0mbre_)
