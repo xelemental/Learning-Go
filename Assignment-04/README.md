@@ -1,5 +1,5 @@
 ## Assignment 4
-Perform operations with complex numbers
+Perform arithmetic operations with complex numbers.
 
 ## Example Output
 ```terminal_session
