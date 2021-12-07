@@ -1,6 +1,9 @@
 ## Assignment 7
 Write a program which uses else..if condition. 
 
+
+## Pseudo Code
+
 ```go
 
 //Syntax:
