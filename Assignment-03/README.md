@@ -1,4 +1,4 @@
-## Assignment 2
+## Assignment 3
 Perform addition, substraction, multiplication & divison between two integers & floating point numbers.
 
 ## Example Output
